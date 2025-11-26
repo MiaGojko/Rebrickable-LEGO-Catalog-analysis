@@ -17,9 +17,9 @@ Chapters overview:
 
 SQL files correspond to code included in some subchapters:
 - SQL - Inventory findings 
-- 1. SQL - Parts and sets analysis
-- 2. SQL - Themes analysis
-- 3. SQL - Colors analysis
+- 1.SQL - Parts and sets analysis
+- 2.SQL - Themes analysis
+- 3.SQL - Colors analysis
 
 These SQL files are included in the repository so that readers can run the queries directly using a database tool such as Oracle SQL Developer.
 
