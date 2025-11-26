@@ -17,7 +17,7 @@ Chapters overview:
 
 SQL files correspond to code included in some subchapters:
 - SQL - Inventory findings 
-- 1. SQL - Parts and sets analysis
+- SQL - Parts and sets analysis
 - 2.SQL - Themes analysis
 - 3.SQL - Colors analysis
 
