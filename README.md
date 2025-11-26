@@ -11,7 +11,7 @@ Chapters overview:
 1. Detective's mission -> Introduction
 2. Clues to investigate -> Task
 3. The evidence room -> Database analysis and set up
-4. Investigation -> code for analytical part of each task (SQL code, visuals python)
+4. Investigation -> code for analytical part of each task (SQL code, visuals Python)
 5. Case solved! -> Task solution : summary of the results + analytical overview
 6. Case closed! -> Task solution : summary of the results -> short version for business users/managers/directors
 
