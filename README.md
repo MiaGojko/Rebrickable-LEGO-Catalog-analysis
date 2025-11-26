@@ -6,13 +6,14 @@ There are two types of documents that present the results of the Detective’s c
 2. Solution with code : Detective's case: Rebrickable LEGO Catalog analysis - Whole project analysis results with code
 
 To keep it simple, results from different reporting styles are saved within the same document but separated into different chapters.
+
 Chapters overview:
-	1. Detective's mission -> Introduction
-	2. Clues to investigate -> Task 
-	3. The evidence room -> Database analysis and set up 
-	4. Investigation -> code for analytical part of each task (SQL, visuals)
-	5. Case solved! -> Task solution : summary of the results + analytical overview  
-	6. Case closed! -> Task solution : summary of the results -> short version for business users/managers/directors
+1. Detective's mission -> Introduction
+2. Clues to investigate -> Task
+3. The evidence room -> Database analysis and set up
+4. Investigation -> code for analytical part of each task (SQL, visuals)
+5. Case solved! -> Task solution : summary of the results + analytical overview
+6. Case closed! -> Task solution : summary of the results -> short version for business users/managers/directors
 
 
 SQL files correspond to code included in some subchapters:
